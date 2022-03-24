@@ -1,0 +1,16 @@
+{
+    "juan": {
+        "date": {
+            "from": "2021-12-20",
+            "to": "2021-12-21"
+        },
+        "observer": {
+            "location": {
+                "longitude": "-84.39733",
+                "latitude": "33.775867",
+                "elevation": "1000",
+                "time": "08:00:00"
+            }
+        }
+    }
+}
